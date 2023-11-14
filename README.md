@@ -1,2 +1,2 @@
 # plang
-a small compiler written in python
+a small interpreter written in python
